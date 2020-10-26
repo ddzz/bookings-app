@@ -30,7 +30,6 @@
   * Endpoint logic can be found in `/app/controllers/bookings_controller`.
   * Model definitions are in `/app/models/`.
   * For simplicity a single `App` React component is used for the UI.
-  * When creating new bookings through the UI follow the format of the existing bookings.
 
 ## Deploy
   * This app has been deployed to Heroku:
